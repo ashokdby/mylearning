@@ -2,7 +2,7 @@ package com.hotel.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-
+//This is bean class of Hotel
 @Entity
 public class Hotel {
 	

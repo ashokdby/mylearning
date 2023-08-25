@@ -2,7 +2,7 @@ package com.tenant;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//This is main class of spring booot
 @SpringBootApplication
 public class AddtenantApplication {
 

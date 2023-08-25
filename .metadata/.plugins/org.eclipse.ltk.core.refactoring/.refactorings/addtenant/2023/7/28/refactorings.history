@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.tenant.service.tenantService&apos; to &apos;TenantService&apos;&#x0D;&#x0A;- Original project: &apos;addtenant&apos;&#x0D;&#x0A;- Original element: &apos;com.tenant.service.tenantService&apos;&#x0D;&#x0A;- Renamed element: &apos;com.tenant.service.TenantService&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;tenantService&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.tenant.service{tenantService.java[tenantService" matchStrategy="1" name="TenantService" qualified="false" references="true" similarDeclarations="false" stamp="1688891711902" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,8 @@
+package com.user.externalservice.hotelservice;
+
+
+public interface HotelService {
+
+	Hotel getHotel()
+	
+}
